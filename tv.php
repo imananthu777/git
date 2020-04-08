@@ -1,3 +1,3 @@
 <?php
-header(Location: http://34.65.105.31:2429/usa2020/hbocomedy/playlist.m3u8);
+header(Location: http://139.59.12.146/stm-v3/api/def34.php?id=1374&quality=0&type=0);
 ?>
